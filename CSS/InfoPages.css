@@ -48,7 +48,6 @@ p{
     padding: 2%;
     margin-left: 30%;
     margin-right:30%;
-    font-weight: bold;
     font-size: 20px;
     text-align: justify;
     animation: fadeInAnimation ease 0.75s;
@@ -75,6 +74,8 @@ a{
 .listing{
     text-align: center;
 }
+
+
 
 .backbutton{
     background: rgba(0, 0, 0, 0.5);
